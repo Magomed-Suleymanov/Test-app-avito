@@ -23,7 +23,3 @@ Cверстана адаптивная страница со списком фо
 - Redux-logger
 - Redux-thunk
 - React-icons
-
-### Проект можно посмотреть:
-
-- [Demo](https://frozen-badlands-56519.herokuapp.com/)
